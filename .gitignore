@@ -22,3 +22,6 @@ node_modules/
 # Java
 *.class
 target/
+ 
+ # Incluir binarios de la práctica (petición del usuario)
+ !bin/**
